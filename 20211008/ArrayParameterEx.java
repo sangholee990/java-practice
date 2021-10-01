@@ -1,3 +1,5 @@
+package ArrayParameterEx;
+
 public class ArrayParameterEx {
 	static void replaceSpace(char a[]) {
 		for (int i = 0; i < a.length; i++)
